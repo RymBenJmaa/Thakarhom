@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.6.0)
+  - DGElasticPullToRefresh (1.1)
+  - EMAlertController (1.0.1)
+  - GoogleMaps (2.3.0):
+    - GoogleMaps/Maps (= 2.3.0)
+  - GoogleMaps/Base (2.3.0)
+  - GoogleMaps/Maps (2.3.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.3.0):
+    - GoogleMaps/Base (= 2.3.0)
+  - StatusAlert (0.10.0)
+  - SwiftyJSON (4.0.0)
+  - Toast-Swift (3.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - DGElasticPullToRefresh
+  - EMAlertController
+  - GoogleMaps (= 2.3.0)
+  - GooglePlaces (= 2.3.0)
+  - StatusAlert (~> 0.10.0)
+  - SwiftyJSON
+  - Toast-Swift (~> 3.0.1)
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  DGElasticPullToRefresh: 28f11a6026302a90f8ffebbc6e24748e584dddd3
+  EMAlertController: db945aa666b737b86b0d22c9ee464e552fc63bb8
+  GoogleMaps: 340a6a0bebd17c2db8abcd3921976c7c53c86cb8
+  GooglePlaces: 74d322c74184ea4576184089b496d291cf0dcd38
+  StatusAlert: a386670d9d77cb0f0af135dd6c3a6297de2e1e2c
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  Toast-Swift: ba0b01b095aada709d915f9beb1d38184a2721c3
+
+PODFILE CHECKSUM: 374a3d8f04faf0d3be99c331a0489709d1ce765d
+
+COCOAPODS: 1.4.0
